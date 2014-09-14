@@ -36,8 +36,8 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
 navigationLinks:
- - {permalink: "/2014", text: "Home"}
- - {permalink: "/2014/members/", text: "Members"}
+ - {permalink: "/", text: "Home"}
+ - {permalink: "2014/members/", text: "Members"}
 bottomNavigationLinks:
  - {link: "2014/#tickets", text: "GDG SSU 지원하기"}
 rightNavigationButtons:
