@@ -64,7 +64,7 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "250", specialCharacter: "+", info: "Person", detail: "GDG SSU는 우리가 마련한 가치있는 이벤트에서 많은 사람들을 모으고 그들이 좋은 추억과 경험을 가질 수 있는 기회를 제공했습니다. 1회 평균 250명, 현재까지 약 2700명 이상의 학생들을 만나왔습니다."}
- - {count: "48", specialCharacter: "+", info: "Events", detail: "설립한지 3년, 길지 않은 시간이었지만 GDG SSU는 학생개발자들의 발전을 위하여 유익한 개발자 행사를 수 차례 주최해왔습니다. GDG SSU는 그룹의 일원으로써 가입하는 것 뿐만이 아닌 이러한 이벤트에 참여하는 방식 역시 의미가 있습니다."}
+ - {count: "48", specialCharacter: "+", info: "Events", detail: "설립한지 3년, 길지 않은 시간이었지만 GDG SSU는 학생개발자들의 발전을 위하여 유익한 개발자 행사를 수 차례 주최해왔습니다. GDG SSU는 그룹의 일원으로서 가입하는 것 뿐만이 아닌 이러한 이벤트에 참여하는 방식 역시 의미가 있습니다."}
  - {count: "39", specialCharacter: "+", info: "Members", detail: "GDG SSU에는 좋은 멤버들의 숫자가 나날히 늘어가고 있습니다. 기존에 이것을 업으로 삼아온 사람들, 그 사람들의 등을 보고 따르며 성장하는 사람들 모두 말이지요."}
  - {count: "4", specialCharacter: "", info: "4 Circle Couple..", detail: "젊은 대학생 시절을 사랑에 불태우는 사람들이 많습니다. GDG SSU에는 개발뿐만 아니라 동아리 내에서 뜨거운 연애를 진행중인 커플이 많습니다."}
 
