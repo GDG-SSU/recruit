@@ -217,11 +217,13 @@
   name: "정한터"
   company: "SW Maestro"
   title: "3rd Mentee"
-  bio: ""
-  thumbnailUrl: hanter.png
+  bio: "영상 / 디자인 / 프로그래밍 / 미디어아트 분야 불문 다양하게 다 건드려본 개자이너입니다! 그래도 주종목은 Java와 Android.<br>잡다하게 해본거도 많고 하고싶은 것도 많지만 아직 갈 길에 대해 갈피를 잡지 못하는 방랑자ㅠㅠ <br>프로그래머로써 정말 하고싶고 정말 내게 맞는 분야를 찾고, 그곳에서 최고가 되고 싶습니다."
+  thumbnailUrl: hanter.jpg
   rockstar: true
   ribbon:
     - {abbr: "SW Maestro", title: "Software Maestro", url: "http://www.swmaestro.kr/"}
+    - {abbr: "Ewha App Center", title: "Ewha App Center Android Master", url: "http://www.ewhappcenter.com/xe/page_HMnv41"}
+    - {abbr: "SSIZEN.NET", title: "SSIZEN.NET Web Content Manager", url: "http://ssizen.net/home/"}
 
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+HanterJung/posts"}
