@@ -245,8 +245,8 @@
   name: "김성우"
   company: "KBeat.net"
   title: "Technical Artist / CTO"
-  bio: ""
-  thumbnailUrl: sungwu.jpg
+  bio: "서정적인 힐링 게임을 만드는게 목표. 개발자지만 사실 디자이너."
+  thumbnailUrl: seongwoo.png
   rockstar: true
   ribbon:
     - {abbr: "디미고", title: "한국디지털미디어고등학교", url: "http://dimigo.hs.kr/"}
