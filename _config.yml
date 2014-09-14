@@ -5,7 +5,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Soongsil University"
+title: "GDG SSU 2014 FW Recruit"
 email: "gdgssu.jyj@gmail.com"
 description: "GDG SSU 2014 recruit"
 baseurl: ""
@@ -37,11 +37,11 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "2014/members/", text: "Members"}
+ - {permalink: "/members/", text: "Members"}
 bottomNavigationLinks:
- - {link: "2014/#tickets", text: "GDG SSU 지원하기"}
+ - {link: "/#tickets", text: "GDG SSU 지원하기"}
 rightNavigationButtons:
- - {link: "2014/#tickets", text: "GDG SSU 지원하기"}
+ - {link: "/#tickets", text: "GDG SSU 지원하기"}
 
 # Hero Block
 heroImage: "hero.jpg"
