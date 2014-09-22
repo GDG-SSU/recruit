@@ -99,6 +99,20 @@
 
 - 
   id: 7
+  name: "김병우"
+  company: "Linkle Lab"
+  title: "Software Engineer"
+  bio: "http://nslinkle.com/"
+  thumbnailUrl: bwkim.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG Organizer", title: "GDG SSU Organizer", url: "https://developers.google.com/groups/chapter/100263126816983481169/"}
+    - {abbr: "Linkle Lab", title: "Software Maestro", url: "http://www.swmaestro.kr/homepage/default/page/subLocation.do?menu_no=20010202&up_menu_no=200102"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/104394493024265423649/posts"}
+
+- 
+  id: 8
   name: "김남윤"
   company: "Samsung Software Membership"
   title: "Software Engineer"
@@ -112,7 +126,7 @@
     - {name: "facebook", link: "https://www.facebook.com/yunface"}
 
 - 
-  id: 8
+  id: 9
   name: "김나연"
   company: "Evernote"
   title: "Designer Intern"
@@ -130,7 +144,7 @@
     - {name: "facebook", link: "https://www.facebook.com/nayomee610"}
 
 - 
-  id: 9
+  id: 10
   name: "김진의"
   company: "Semicolon"
   title: "First Leader"
@@ -144,7 +158,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100003469260539"}
 
 - 
-  id: 10
+  id: 11
   name: "정찬우"
   company: "Nooslab"
   title: "Game Developer"
@@ -160,7 +174,7 @@
     - {name: "github", link: "https://github.com/enghqii"}
 
 - 
-  id: 11
+  id: 12
   name: "정주홍"
   company: "FreeLancer"
   title: "Software Engineer/Game Developer"
@@ -178,7 +192,7 @@
     - {name: "site", link: "growingdever.tistroy.com"}
 
 - 
-  id: 12
+  id: 13
   name: "권성광"
   company: "FreeLancer"
   title: "Software Engineer/Game Developer"
@@ -196,7 +210,7 @@
     - {name: "site", link: "https://osu.ppy.sh/u/364027"}
 
 - 
-  id: 13
+  id: 14
   name: "김원재"
   company: "이음소시어스"
   title: "Software Engineer"
@@ -213,7 +227,7 @@
     - {name: "facebook", link: "https://www.facebook.com/akkiros"}
 
 - 
-  id: 14
+  id: 15
   name: "정한터"
   company: "SW Maestro"
   title: "Software Engineer"
@@ -230,7 +244,7 @@
     - {name: "facebook", link: "https://www.facebook.com/hanterjung"}
 
 - 
-  id: 15
+  id: 16
   name: "최아연"
   company: "Soongsil University"
   title: "Second Grade"
@@ -243,7 +257,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100003381701052"}
 
 - 
-  id: 16
+  id: 17
   name: "김성우"
   company: "KBeat.net"
   title: "Technical Artist / CTO"
@@ -259,7 +273,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100001873083257"}
 
 - 
-  id: 17
+  id: 18
   name: "이경문"
   company: "SW Maestro"
   title: "5th Trainee"
@@ -274,7 +288,7 @@
     - {name: "facebook", link: "https://www.facebook.com/thenwasthetime"}
 
 - 
-  id: 18
+  id: 19
   name: "조선미"
   company: "LG CTO"
   title: "Software Engineer Intern"
@@ -289,7 +303,7 @@
     - {name: "facebook", link: "https://www.facebook.com/iloveloop"}
 
 - 
-  id: 19
+  id: 20
   name: "안혜미"
   company: "Microsoft Student Partners"
   title: "8th Developer"
@@ -303,7 +317,7 @@
     - {name: "facebook", link: "https://www.facebook.com/hyemi.ahn.12"}
 
 - 
-  id: 20
+  id: 21
   name: "장석성"
   company: "Soongsil University"
   title: "Second Grade"
@@ -318,7 +332,7 @@
     - {name: "facebook", link: "https://www.facebook.com/j4tune4u"}
 
 - 
-  id: 21
+  id: 22
   name: "박규환 (치즈군★)"
   company: "Seoul.pm"
   title: "Software Engineer"
@@ -331,7 +345,7 @@
     - {name: "facebook", link: "https://www.facebook.com/the.unstabler"}
 
 - 
-  id: 22
+  id: 23
   name: "이상혁"
   company: "국방부"
   title: "Army / 인간병기 / 각종 무술 유단자"
@@ -346,7 +360,7 @@
     - {name: "facebook", link: "https://www.facebook.com/lee.sanghyeok.94"}
 
 - 
-  id: 23
+  id: 24
   name: "제설아"
   company: "Security Circle UNLOCK"
   title: "Adviser"
@@ -363,7 +377,7 @@
     - {name: "facebook", link: "https://www.facebook.com/seolah.je"}
 
 - 
-  id: 24
+  id: 25
   name: "위가혜"
   company: "Soongsil University"
   title: "Second Grade"
@@ -377,7 +391,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100004764933744"}
 
 - 
-  id: 25
+  id: 26
   name: "이희덕 (희희덕덕)"
   company: "Line+"
   title: "Software Engineer Intern"
@@ -396,7 +410,7 @@
     - {name: "site", link: "http://lhd1413.sshel.com/profile/index.htm"}
 
 - 
-  id: 26
+  id: 27
   name: "방한미루"
   company: "KETI"
   title: "Contract Researcher (Unity 3D)"
@@ -411,7 +425,7 @@
     - {name: "facebook", link: "https://www.facebook.com/luis.hanmilu"}
 
 - 
-  id: 27
+  id: 28
   name: "김대경"
   company: "Samsung Software Membership"
   title: "Software Engineer"
@@ -427,7 +441,7 @@
     - {name: "facebook", link: "https://www.facebook.com/netforce2"}
 
 - 
-  id: 28
+  id: 29
   name: "조은지"
   company: "Best of the Best"
   title: "3th Hacker"
@@ -440,7 +454,7 @@
     - {name: "facebook", link: "https://www.facebook.com/eunji.cho.714"}
 
 - 
-  id: 29
+  id: 30
   name: "김미현"
   company: "Samsung sGen Club"
   title: "4th developer"
@@ -454,7 +468,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100002144397171"}
 
 - 
-  id: 30
+  id: 31
   name: "김민기"
   company: "Soongsil University"
   title: "Third Grade"
