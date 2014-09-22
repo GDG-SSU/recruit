@@ -107,7 +107,7 @@
   rockstar: true
   ribbon:
     - {abbr: "GDG Organizer", title: "GDG SSU Organizer", url: "https://developers.google.com/groups/chapter/100263126816983481169/"}
-    - {abbr: "Linkle Lab", title: "Software Maestro", url: "http://www.swmaestro.kr/homepage/default/page/subLocation.do?menu_no=20010202&up_menu_no=200102"}
+    - {abbr: "Linkle", title: "Linkle Lab", url: "http://www.swmaestro.kr/homepage/default/page/subLocation.do?menu_no=20010202&up_menu_no=200102"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/104394493024265423649/posts"}
 
