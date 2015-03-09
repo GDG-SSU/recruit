@@ -9,7 +9,7 @@ title: "GDG SSU 2014 FW Recruit"
 email: "gdgssu.jyj@gmail.com"
 description: "GDG SSU 2014 recruit"
 baseurl: ""
-url: "http://gdgrecruit.github.io"
+url: "http://gdg-ssu.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -200,7 +200,7 @@ directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
  - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
-directionDetailsWideCards: 
+directionDetailsWideCards:
  -
   title: "Questions?"
   subCards:
@@ -211,7 +211,7 @@ directionDetailsWideCards:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   - 
+   -
     title: "Registration"
     links:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
