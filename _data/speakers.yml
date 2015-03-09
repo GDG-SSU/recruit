@@ -33,20 +33,22 @@
     - {name: "facebook", link: "https://www.facebook.com/rika0505"}
 -
   id: 3
-  name: "윤재석 (Jake Yoon)"
-  company: "Samsung Software Membership"
-  title: "Elite Member"
-  bio: "항상 최선을 다해보자라는 생각으로 모든 일에 임하고 있는 5학년 2학기에 재학 중인 학생입니다. <br> '좋아하는 일' = '해야하는 일' = '개! 발!'이라고 말하는 열정넘치는 학생 개발자입니다."
-  thumbnailUrl: jakeyoon.jpg
+  name: "김나연"
+  company: "Evernote"
+  title: "Designer Intern"
+  bio: "새롭고 즐거운 일을 찾아다니는 디자이너."
+  thumbnailUrl: nayeon.png
   rockstar: true
   ribbon:
-    - {abbr: "GDG Organizer", title: "GDG SSU Organizer", url: "https://developers.google.com/groups/chapter/100263126816983481169/"}
-    - {abbr: "SSM", title: "Samsung Software Membership", url: "http://www.secmem.org/"}
-    - {abbr: "KETI", title: "Researcher at KETI", url: "http://www.keti.re.kr/"}
+    - {abbr: "Evernote", title: "Evernote Designer Intern", url: "https://evernote.com/intl/ko/corp/"}
+    - {abbr: "SW Maestro", title: "Software Maestro Power Designer", url: "http://www.swmaestro.kr/homepage/default/page/subLocation.do?menu_no=20010202&up_menu_no=200102"}
+    - {abbr: "MSP", title: "Microsoft Student Partners", url: "http://www.microsoftstudentpartners.com/"}
+    - {abbr: "Take It", title: "Take It Chief Editor", url: ""}
 
   social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+JakeYoon/posts"}
-    - {name: "facebook", link: "https://www.facebook.com/yjaeseok"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/116357255805228592657/posts"}
+    - {name: "facebook", link: "https://www.facebook.com/nayomee610"}
+
 -
   id: 4
   name: "김종찬"
@@ -127,22 +129,21 @@
 
 -
   id: 9
-  name: "김나연"
-  company: "Evernote"
-  title: "Designer Intern"
-  bio: "새롭고 즐거운 일을 찾아다니는 디자이너."
-  thumbnailUrl: nayeon.png
+  name: "윤재석 (Jake Yoon)"
+  company: "Samsung Software Membership"
+  title: "Elite Member"
+  bio: "항상 최선을 다해보자라는 생각으로 모든 일에 임하고 있는 5학년 2학기에 재학 중인 학생입니다. <br> '좋아하는 일' = '해야하는 일' = '개! 발!'이라고 말하는 열정넘치는 학생 개발자입니다."
+  thumbnailUrl: jakeyoon.jpg
   rockstar: true
   ribbon:
-    - {abbr: "Evernote", title: "Evernote Designer Intern", url: "https://evernote.com/intl/ko/corp/"}
-    - {abbr: "SW Maestro", title: "Software Maestro Power Designer", url: "http://www.swmaestro.kr/homepage/default/page/subLocation.do?menu_no=20010202&up_menu_no=200102"}
-    - {abbr: "MSP", title: "Microsoft Student Partners", url: "http://www.microsoftstudentpartners.com/"}
-    - {abbr: "Take It", title: "Take It Chief Editor", url: ""}
+    - {abbr: "GDG Organizer", title: "GDG SSU Organizer", url: "https://developers.google.com/groups/chapter/100263126816983481169/"}
+    - {abbr: "SSM", title: "Samsung Software Membership", url: "http://www.secmem.org/"}
+    - {abbr: "KETI", title: "Researcher at KETI", url: "http://www.keti.re.kr/"}
 
   social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/116357255805228592657/posts"}
-    - {name: "facebook", link: "https://www.facebook.com/nayomee610"}
 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+JakeYoon/posts"}
+    - {name: "facebook", link: "https://www.facebook.com/yjaeseok"}
 -
   id: 10
   name: "김진의"
@@ -442,19 +443,7 @@
 
 -
   id: 29
-  name: "조은지"
-  company: "Best of the Best"
-  title: "3th Hacker"
-  bio: "안녕하세요! 게임 개발자..겸 보안 전문가가 되고싶은 지나가는 대학생 13번 조은지입니다"
-  thumbnailUrl: eunji.png
-  rockstar: true
-  ribbon:
-    - {abbr: "BOB", title: "Best of the Best", url: "https://developers.google.com/groups/chapter/100263126816983481169/"}
-  social:
-    - {name: "facebook", link: "https://www.facebook.com/eunji.cho.714"}
 
--
-  id: 30
   name: "김미현"
   company: "Samsung sGen Club"
   title: "4th developer"
@@ -466,16 +455,3 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/109408578967066443022/posts"}
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100002144397171"}
-
--
-  id: 31
-  name: "김민기"
-  company: "Soongsil University"
-  title: "Third Grade"
-  bio: "웹, 안드로이드, 자료구조, 알고리즘을 공부하고 있고, 웹, 자료구조, 알고리즘에 관심을 두고 있습니다. <br>부족한 것이 많은 초보 개발자이지만 초보 개발자를 벗어나기위해 열심히 공부하고 있는 사람. <br>길게보는 장래희망은 저처럼 초보개발자의 마음을 이해하여 그들의 좋은 멘토가 되는 것입니다."
-  thumbnailUrl: minki.jpg
-  rockstar: true
-  ribbon:
-  social:
-    - {name: "facebook", link: "https://www.facebook.com/FlaShilver"}
-
