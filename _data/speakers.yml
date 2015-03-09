@@ -1,4 +1,4 @@
-- 
+-
   id: 1
   name: "정유진"
   company: "Cedar Inc."
@@ -11,11 +11,11 @@
     - {abbr: "디미고", title: "한국디지털미디어고등학교", url: "http://dimigo.hs.kr/"}
     - {abbr: "Start-Up", title: "Cedar Inc. Co-Founder", url: ""}
     - {abbr: "SW Maestro", title: "Software Maestro", url: "http://www.swmaestro.kr/"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+%EC%A0%95%EC%9C%A0%EC%A7%84/posts"}
     - {name: "facebook", link: "https://www.facebook.com/Gpeddler"}
 
-- 
+-
   id: 2
   name: "임원균"
   company: "SW Maestro"
@@ -28,26 +28,28 @@
     - {abbr: "SW Maestro", title: "Software Maestro", url: "http://www.swmaestro.kr/"}
     - {abbr: "Null", title: "Null Leader", url: ""}
 
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+WonkyunLim/posts"}
     - {name: "facebook", link: "https://www.facebook.com/rika0505"}
-- 
+-
   id: 3
-  name: "윤재석 (Jake Yoon)"
-  company: "Samsung Software Membership"
-  title: "Elite Member"
-  bio: "항상 최선을 다해보자라는 생각으로 모든 일에 임하고 있는 5학년 2학기에 재학 중인 학생입니다. <br> '좋아하는 일' = '해야하는 일' = '개! 발!'이라고 말하는 열정넘치는 학생 개발자입니다."
-  thumbnailUrl: jakeyoon.jpg
+  name: "김나연"
+  company: "Evernote"
+  title: "Designer Intern"
+  bio: "새롭고 즐거운 일을 찾아다니는 디자이너."
+  thumbnailUrl: nayeon.png
   rockstar: true
   ribbon:
-    - {abbr: "GDG Organizer", title: "GDG SSU Organizer", url: "https://developers.google.com/groups/chapter/100263126816983481169/"}
-    - {abbr: "SSM", title: "Samsung Software Membership", url: "http://www.secmem.org/"}
-    - {abbr: "KETI", title: "Researcher at KETI", url: "http://www.keti.re.kr/"}
+    - {abbr: "Evernote", title: "Evernote Designer Intern", url: "https://evernote.com/intl/ko/corp/"}
+    - {abbr: "SW Maestro", title: "Software Maestro Power Designer", url: "http://www.swmaestro.kr/homepage/default/page/subLocation.do?menu_no=20010202&up_menu_no=200102"}
+    - {abbr: "MSP", title: "Microsoft Student Partners", url: "http://www.microsoftstudentpartners.com/"}
+    - {abbr: "Take It", title: "Take It Chief Editor", url: ""}
 
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+JakeYoon/posts"}
-    - {name: "facebook", link: "https://www.facebook.com/yjaeseok"}
-- 
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/116357255805228592657/posts"}
+    - {name: "facebook", link: "https://www.facebook.com/nayomee610"}
+
+-
   id: 4
   name: "김종찬"
   company: "GDG Korea Android"
@@ -62,12 +64,12 @@
     - {abbr: "SW Maestro", title: "Software Maestro", url: "http://www.swmaestro.kr/homepage/default/page/subLocation.do?menu_no=20010202&up_menu_no=200102"}
     - {abbr: "디미고", title: "한국디지털미디어고등학교", url: "http://dimigo.hs.kr/"}
 
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+JongchanKim/posts"}
     - {name: "facebook", link: "https://www.facebook.com/FlaShilver"}
     - {name: "github", link: "https://github.com/FlaShilver"}
 
-- 
+-
   id: 5
   name: "김혜원"
   company: "LG CTO"
@@ -82,7 +84,7 @@
     - {name: "google-plus", link: "https://plus.google.com/u/0/+HYEWONKIM/posts"}
     - {name: "facebook", link: "https://www.facebook.com/0hyewon0"}
 
-- 
+-
   id: 6
   name: "양준혁"
   company: "FreeLancer"
@@ -94,10 +96,10 @@
     - {abbr: "GDG Organizer", title: "GDG SSU Organizer", url: "https://developers.google.com/groups/chapter/100263126816983481169/"}
     - {abbr: "SW Maestro", title: "Software Maestro", url: "http://www.swmaestro.kr/homepage/default/page/subLocation.do?menu_no=20010202&up_menu_no=200102"}
     - {abbr: "BOB", title: "Best of the Best", url: "https://developers.google.com/groups/chapter/100263126816983481169/"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/117877205898458369013/posts"}
 
-- 
+-
   id: 7
   name: "김병우"
   company: "Linkle Lab"
@@ -108,10 +110,10 @@
   ribbon:
     - {abbr: "GDG Organizer", title: "GDG SSU Organizer", url: "https://developers.google.com/groups/chapter/100263126816983481169/"}
     - {abbr: "Linkle", title: "Linkle Lab", url: "http://www.swmaestro.kr/homepage/default/page/subLocation.do?menu_no=20010202&up_menu_no=200102"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/104394493024265423649/posts"}
 
-- 
+-
   id: 8
   name: "김남윤"
   company: "Samsung Software Membership"
@@ -121,29 +123,28 @@
   rockstar: true
   ribbon:
     - {abbr: "SSM", title: "Samsung Software Membership", url: "http://www.secmem.org/"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+%EA%B9%80%EB%82%A8%EC%9C%A4hello/posts"}
     - {name: "facebook", link: "https://www.facebook.com/yunface"}
 
-- 
+-
   id: 9
-  name: "김나연"
-  company: "Evernote"
-  title: "Designer Intern"
-  bio: "새롭고 즐거운 일을 찾아다니는 디자이너."
-  thumbnailUrl: nayeon.png
+  name: "윤재석 (Jake Yoon)"
+  company: "Samsung Software Membership"
+  title: "Elite Member"
+  bio: "항상 최선을 다해보자라는 생각으로 모든 일에 임하고 있는 5학년 2학기에 재학 중인 학생입니다. <br> '좋아하는 일' = '해야하는 일' = '개! 발!'이라고 말하는 열정넘치는 학생 개발자입니다."
+  thumbnailUrl: jakeyoon.jpg
   rockstar: true
   ribbon:
-    - {abbr: "Evernote", title: "Evernote Designer Intern", url: "https://evernote.com/intl/ko/corp/"}
-    - {abbr: "SW Maestro", title: "Software Maestro Power Designer", url: "http://www.swmaestro.kr/homepage/default/page/subLocation.do?menu_no=20010202&up_menu_no=200102"}
-    - {abbr: "MSP", title: "Microsoft Student Partners", url: "http://www.microsoftstudentpartners.com/"}
-    - {abbr: "Take It", title: "Take It Chief Editor", url: ""}
+    - {abbr: "GDG Organizer", title: "GDG SSU Organizer", url: "https://developers.google.com/groups/chapter/100263126816983481169/"}
+    - {abbr: "SSM", title: "Samsung Software Membership", url: "http://www.secmem.org/"}
+    - {abbr: "KETI", title: "Researcher at KETI", url: "http://www.keti.re.kr/"}
 
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/116357255805228592657/posts"}
-    - {name: "facebook", link: "https://www.facebook.com/nayomee610"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+JakeYoon/posts"}
+    - {name: "facebook", link: "https://www.facebook.com/yjaeseok"}
 
-- 
+-
   id: 10
   name: "김진의"
   company: "Semicolon"
@@ -153,11 +154,11 @@
   rockstar: true
   ribbon:
     - {abbr: "Semicolon", title: "Semicolon First Leader", url: ""}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/106873256887316154027/posts"}
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100003469260539"}
 
-- 
+-
   id: 11
   name: "정찬우"
   company: "Nooslab"
@@ -168,12 +169,12 @@
   ribbon:
     - {abbr: "애니고", title: "한국애니메이션고등학교", url: "http://www.anigo.or.kr/"}
 
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/102613305422938742697/posts"}
     - {name: "facebook", link: "https://www.facebook.com/enghqii"}
     - {name: "github", link: "https://github.com/enghqii"}
 
-- 
+-
   id: 12
   name: "정주홍"
   company: "FreeLancer"
@@ -185,13 +186,13 @@
     - {abbr: "SW Maestro", title: "Software Maestro", url: "http://www.swmaestro.kr/homepage/default/page/subLocation.do?menu_no=20010202&up_menu_no=200102"}
     - {abbr: "FreeLancer", title: "Software Engineer/Game Developer", url: ""}
     - {abbr: "애니고", title: "한국애니메이션고등학교", url: "http://www.anigo.or.kr/"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+JeongJuhong/posts"}
     - {name: "facebook", link: "https://www.facebook.com/voidjuhong"}
     - {name: "github", link: "growingdever@github.com"}
     - {name: "site", link: "growingdever.tistroy.com"}
 
-- 
+-
   id: 13
   name: "권성광"
   company: "FreeLancer"
@@ -202,14 +203,14 @@
   ribbon:
     - {abbr: "SW Maestro", title: "Software Maestro", url: "http://www.swmaestro.kr/"}
     - {abbr: "애니고", title: "한국애니메이션고등학교", url: "http://www.anigo.or.kr/"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/112739680351483655407/posts"}
     - {name: "facebook", link: "https://www.facebook.com/seonggwang.gwon"}
     - {name: "github", link: "https://github.com/seonggwang"}
     - {name: "site", link: "http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=mypage&playerid=84406"}
     - {name: "site", link: "https://osu.ppy.sh/u/364027"}
 
-- 
+-
   id: 14
   name: "김원재"
   company: "이음소시어스"
@@ -222,11 +223,11 @@
     - {abbr: "SW Maestro", title: "Software Maestro", url: "http://www.swmaestro.kr/homepage/default/page/subLocation.do?menu_no=20010202&up_menu_no=200102"}
     - {abbr: "디미고", title: "한국디지털미디어고등학교", url: "http://dimigo.hs.kr/"}
 
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/103044272637020404296/posts"}
     - {name: "facebook", link: "https://www.facebook.com/akkiros"}
 
-- 
+-
   id: 15
   name: "정한터"
   company: "SW Maestro"
@@ -239,11 +240,11 @@
     - {abbr: "Ewha App Center", title: "Ewha App Center Android Master", url: "http://www.ewhappcenter.com/xe/page_HMnv41"}
     - {abbr: "SSIZEN.NET", title: "SSIZEN.NET Web Content Manager", url: "http://ssizen.net/home/"}
 
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+HanterJung/posts"}
     - {name: "facebook", link: "https://www.facebook.com/hanterjung"}
 
-- 
+-
   id: 16
   name: "최아연"
   company: "Soongsil University"
@@ -252,11 +253,11 @@
   thumbnailUrl: zinc.png
   rockstar: true
   ribbon:
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/110789471097776893712/posts"}
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100003381701052"}
 
-- 
+-
   id: 17
   name: "김성우"
   company: "KBeat.net"
@@ -269,10 +270,10 @@
     - {abbr: "Start-Up", title: "KBeat.net CTO", url: "https://www.facebook.com/kbeat.net"}
     - {abbr: "Start-Up", title: "Zarpar Producer", url: "https://www.facebook.com/pages/Zarpar/139616116208535"}
 
-  social: 
+  social:
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100001873083257"}
 
-- 
+-
   id: 18
   name: "이경문"
   company: "SW Maestro"
@@ -283,11 +284,11 @@
   ribbon:
     - {abbr: "SW Maestro", title: "Software Maestro", url: "http://www.swmaestro.kr/"}
 
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/114636467154744608737/posts"}
     - {name: "facebook", link: "https://www.facebook.com/thenwasthetime"}
 
-- 
+-
   id: 19
   name: "조선미"
   company: "LG CTO"
@@ -298,11 +299,11 @@
   ribbon:
     - {abbr: "LG", title: "LG CTO Software Engineer Intern", url: "http://www.lge.co.kr/lgekr/company/about/rnd/rnd_institute1.jsp"}
 
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/102299588654801345044/posts"}
     - {name: "facebook", link: "https://www.facebook.com/iloveloop"}
 
-- 
+-
   id: 20
   name: "안혜미"
   company: "Microsoft Student Partners"
@@ -312,11 +313,11 @@
   rockstar: true
   ribbon:
     - {abbr: "MSP", title: "Microsoft Student Partners", url: "http://www.microsoftstudentpartners.com/"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+HyemiAhn/posts"}
     - {name: "facebook", link: "https://www.facebook.com/hyemi.ahn.12"}
 
-- 
+-
   id: 21
   name: "장석성"
   company: "Soongsil University"
@@ -327,11 +328,11 @@
   ribbon:
     - {abbr: "COO", title: "LOL Chief Order Operator", url: "http://www.op.gg/summoner/userName=%EC%8B%A4%EB%B2%84%EC%BA%A1%ED%8B%B4%EC%9D%80%EB%B9%9B%EC%84%9D%EC%84%B1"}
 
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/115500377181457842336/posts"}
     - {name: "facebook", link: "https://www.facebook.com/j4tune4u"}
 
-- 
+-
   id: 22
   name: "박규환 (치즈군★)"
   company: "Seoul.pm"
@@ -344,7 +345,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+GyuhwanPark/posts"}
     - {name: "facebook", link: "https://www.facebook.com/the.unstabler"}
 
-- 
+-
   id: 23
   name: "이상혁"
   company: "국방부"
@@ -355,11 +356,11 @@
   ribbon:
     - {abbr: "Army", title: "국방부 인간병기", url: "http://www.mnd.go.kr/mbshome/mbs/mnd/"}
 
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/114675959330890991359/posts"}
     - {name: "facebook", link: "https://www.facebook.com/lee.sanghyeok.94"}
 
-- 
+-
   id: 24
   name: "제설아"
   company: "Security Circle UNLOCK"
@@ -372,11 +373,11 @@
     - {abbr: "UNLOCK", title: "UNLOCK Adviser", url: "https://developers.google.com/groups/chapter/100263126816983481169/"}
     - {abbr: "선린", title: "선린인터넷미디어고등학교", url: "http://www.sunrint.hs.kr/"}
 
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/108766571119428854220/posts"}
     - {name: "facebook", link: "https://www.facebook.com/seolah.je"}
 
-- 
+-
   id: 25
   name: "위가혜"
   company: "Soongsil University"
@@ -386,11 +387,11 @@
   rockstar: true
   ribbon:
     - {abbr: "Mentor", title: "Mathematics & Algorism Mentor", url: ""}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/106448405761062464521/posts"}
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100004764933744"}
 
-- 
+-
   id: 26
   name: "이희덕 (희희덕덕)"
   company: "Line+"
@@ -404,12 +405,12 @@
     - {abbr: "Microsoft", title: "Microsoft Korea Intern", url: "http://www.microsoft.com/ko-kr/about/default.aspx"}
     - {abbr: "Line+", title: "LINE+ Intern", url: "http://linecorp.com/en/"}
 
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/111915147504097527416/posts"}
     - {name: "facebook", link: "https://www.facebook.com/heedeok.lee"}
     - {name: "site", link: "http://lhd1413.sshel.com/profile/index.htm"}
 
-- 
+-
   id: 27
   name: "방한미루"
   company: "KETI"
@@ -424,7 +425,7 @@
     - {name: "google-plus", link: "https://plus.google.com/u/0/107649107100366460737/posts"}
     - {name: "facebook", link: "https://www.facebook.com/luis.hanmilu"}
 
-- 
+-
   id: 28
   name: "김대경"
   company: "Samsung Software Membership"
@@ -436,25 +437,12 @@
     - {abbr: "SSM", title: "Samsung Software Membership", url: "http://www.secmem.org/"}
     - {abbr: "Labs", title: "Network Computing Labs", url: ""}
 
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/110977204323768873654/posts"}
     - {name: "facebook", link: "https://www.facebook.com/netforce2"}
 
-- 
+-
   id: 29
-  name: "조은지"
-  company: "Best of the Best"
-  title: "3th Hacker"
-  bio: "안녕하세요! 게임 개발자..겸 보안 전문가가 되고싶은 지나가는 대학생 13번 조은지입니다"
-  thumbnailUrl: eunji.png
-  rockstar: true
-  ribbon:
-    - {abbr: "BOB", title: "Best of the Best", url: "https://developers.google.com/groups/chapter/100263126816983481169/"}
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/eunji.cho.714"}
-
-- 
-  id: 30
   name: "김미현"
   company: "Samsung sGen Club"
   title: "4th developer"
@@ -463,44 +451,7 @@
   rockstar: true
   ribbon:
     - {abbr: "sGen", title: "Samsung sGen Club", url: "http://www.sgenclub.com/"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/109408578967066443022/posts"}
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100002144397171"}
-
-- 
-  id: 31
-  name: "김민기"
-  company: "Soongsil University"
-  title: "Third Grade"
-  bio: "웹, 안드로이드, 자료구조, 알고리즘을 공부하고 있고, 웹, 자료구조, 알고리즘에 관심을 두고 있습니다. <br>부족한 것이 많은 초보 개발자이지만 초보 개발자를 벗어나기위해 열심히 공부하고 있는 사람. <br>길게보는 장래희망은 저처럼 초보개발자의 마음을 이해하여 그들의 좋은 멘토가 되는 것입니다."
-  thumbnailUrl: minki.jpg
-  rockstar: true
-  ribbon:
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/FlaShilver"}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
